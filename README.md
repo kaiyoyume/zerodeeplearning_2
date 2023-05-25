@@ -1,0 +1,2 @@
+# zerodeeplearning_2
+ゼロから作るディープラーニング②をgoogle colabで実装した。環境構築せずに動かせる。
